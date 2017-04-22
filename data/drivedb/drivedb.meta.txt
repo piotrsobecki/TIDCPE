@@ -1,0 +1,9 @@
+Sampling rate - 2000
+Elapsed time	    ECG	    EMG	oot GSR	and GSR	     HR	   RESP
+hh:mm:ss.mmm	   (mV)	   (mV)	   (mV)	   (mV)	  (bpm)	   (mV)
+
+
+
+http://physionet.nlm.nih.gov/pn3/drivedb/
+http://physionet.org/cgi-bin/atm/ATM?database=drivedb
+Healey JA, Picard RW. Detecting stress during real-world driving tasks using physiological sensors. IEEE Transactions in Intelligent Transportation Systems 6(2):156-166 (June 2005). J Clinical Monitoring 7(1):96-97 (1991).
